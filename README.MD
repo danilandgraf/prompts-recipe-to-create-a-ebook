@@ -5,20 +5,20 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual Felipe Aguiar foi nstrutor técnico na plataforma da [DIO](https://dio.me)
+ > **NOTE:** Este é o repositório desenvolvido durante o curso no qual Felipe Aguiar foi nstrutor técnico na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
 <a href="https://github.com/danilandgraf/prompts-recipe-to-create-a-ebook/blob/main/output/Ebook.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
-## 💻 Tecnologias utilizadas no projeto
+## Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Leonardo.IA](https://app.leonardo.ai/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
-## 🧠 Prompts
+## Prompts
 
 
 ChatGPT：
@@ -36,16 +36,16 @@ Leonrado.IA：
 | título | Create a book cover in the Tarsila do Amaral painting style like 
 Abaporu painting and there are lots of different kind of women. |
 
-## ✨ Features
+## Features
 
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Leonardo.IA
 
-## 📚 Materiais
+## Materiais
 
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
 ---
 
-por [Dani Landgraf](https://github.com/danilandgraf)
+por [Dani Landgraf](https://github.com/danilandgraf) 📚 
