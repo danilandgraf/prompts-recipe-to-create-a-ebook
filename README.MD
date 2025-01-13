@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="100" src="https://github.com/danilandgraf/prompts-recipe-to-create-a-ebook/blob/main/assets/flor.png">
 </p>
 
 # Projeto EBOOK Gerado por I.A.s
